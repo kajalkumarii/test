@@ -8,6 +8,7 @@ Created on Fri Apr 22 11:46:37 2022
 
 @author: thejasvi
 """
+hi there
 import numpy as np 
 import scipy.spatial as spatial 
 import scipy.signal as signal 
